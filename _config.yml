@@ -1,8 +1,8 @@
 # Setup
 title: Rojjots Blog
-description: random thoughts that comes into my mind posted here
+description: random thoughts  and info posted here
 url: https://rajatrg.github.io/blog
-avatar: /avatar.jpeg
+avatar: /assets/img/profile-pic.png
 paginate: 5
 permalink: pretty
 cover_image: /bg.jpeg
@@ -29,11 +29,11 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: rojjot
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: Rajat Govekar
   links:
     - https://twitter.com/rojjot
     - https://github.com/rajatrg
