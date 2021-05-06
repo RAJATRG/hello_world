@@ -51,7 +51,7 @@ google_analytics: UA-123934977-1
 
 
 # Replace this value and uncomment to enable Disqus
-# disqus: xxxxxx
+disqus: https-rojjot-in-blog
 
 # Specify the author for blog posts
 author:
